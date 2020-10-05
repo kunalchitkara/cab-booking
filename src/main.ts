@@ -3,12 +3,13 @@ import { NestFactory } from '@nestjs/core';
 import { DocumentBuilder, SwaggerModule } from '@nestjs/swagger';
 
 import { AppModule } from './app.module';
+import seedDummyData from './seed';
 
 async function bootstrap() {
   const app = await NestFactory.create(AppModule);
 
   // import env variables
-  const { port } = app.get('ConfigService')
+  const { port, dummyNeeded } = app.get('ConfigService')
 
   // enable cors for the API
   app.enableCors();
@@ -29,5 +30,6 @@ async function bootstrap() {
   Logger.log("Hosting at port: " + port, "Bootstrap");
 
   await app.listen(port);
+  if (dummyNeeded) seedDummyData();
 }
 bootstrap();

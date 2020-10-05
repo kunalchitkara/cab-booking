@@ -1,0 +1,42 @@
+[
+    {
+        "firstName": "Roger",
+        "lastName": "Federer",
+        "mobile": "9999900001"
+    },
+    {
+        "firstName": "MS",
+        "lastName": "Dhoni",
+        "mobile": "9999900002"
+    },
+    {
+        "firstName": "Rahul",
+        "lastName": "Gandhi",
+        "mobile": "9999900003"
+    },
+    {
+        "firstName": "Shahrukh",
+        "lastName": "Khan",
+        "mobile": "9999900004"
+    },
+    {
+        "firstName": "Shahid",
+        "lastName": "Kapoor",
+        "mobile": "9999900005"
+    },
+    {
+        "firstName": "Sania",
+        "lastName": "Mirza",
+        "mobile": "9999900006"
+    },
+    {
+        "firstName": "Sonia",
+        "lastName": "Gandhi",
+        "mobile": "9999900007"
+    },
+    {
+        "firstName": "Narendra",
+        "lastName": "Modi",
+        "mobile": "9999900008"
+    }
+]

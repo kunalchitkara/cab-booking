@@ -1,0 +1,50 @@
+[
+    {
+        "registrationNumber": "DL1C AB 0001",
+        "makeModel": "Tata Harrier",
+        "color": "Red",
+        "pink": false
+    },
+    {
+        "registrationNumber": "DL1C AB 0002",
+        "makeModel": "BMW 5 Series",
+        "color": "Black",
+        "pink": false
+    },
+    {
+        "registrationNumber": "DL1C AB 0003",
+        "makeModel": "Audi Q5",
+        "color": "White",
+        "pink": false
+    },
+    {
+        "registrationNumber": "DL1C AB 0004",
+        "makeModel": "Volkswagen Tiguan Allspace",
+        "color": "Grey",
+        "pink": false
+    },
+    {
+        "registrationNumber": "DL1C AB 0005",
+        "makeModel": "Skoda Superb",
+        "color": "Blue",
+        "pink": false
+    },
+    {
+        "registrationNumber": "DL1C AB 0006",
+        "makeModel": "Volkswagen Beetle",
+        "color": "Yellow",
+        "pink": true
+    },
+    {
+        "registrationNumber": "DL1C AB 0007",
+        "makeModel": "Ford Mustang",
+        "color": "Green",
+        "pink": true
+    },
+    {
+        "registrationNumber": "DL1C AB 0008",
+        "makeModel": "Land Rover Discovery Sport",
+        "color": "Black",
+        "pink": false
+    }
+]
